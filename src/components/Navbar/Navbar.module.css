@@ -1,0 +1,22 @@
+.navbar {
+    background-color: slategray;
+
+}
+
+.nav {
+    grid-area: n;
+    padding: 20px;
+}
+
+.item  a {
+    color: white;
+    text-decoration: none;
+}
+
+.item a.activeLink {
+    color: gold;
+}
+
+.friends {
+    text-align: center;
+}

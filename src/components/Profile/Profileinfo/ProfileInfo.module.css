@@ -1,0 +1,9 @@
+.descriptionBlock {
+    margin: 0 auto;
+    padding: 10px;
+
+}
+
+.item .img {
+    max-width: 100%;
+}
